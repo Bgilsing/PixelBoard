@@ -11,7 +11,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
 INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY, AND FITNESS FOR A
 PARTICULAR PURPOSE. Please see the CERN-OHL-P v2 for applicable conditions.
 
-Source location: [LINK TO YOUR REPOSITORY]
+Source location: [https://github.com/Bgilsing/PixelBoard]
 
 As per CERN-OHL-P v2, should you produce hardware based on this design, you
 must include the notice above with the URL to the source location.
